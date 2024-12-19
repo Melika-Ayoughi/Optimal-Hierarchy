@@ -1,0 +1,426 @@
+{
+    "name": "Thing",
+    "subclasses": [
+        {
+            "name": "CheeseyPizza",
+            "subclasses": []
+        },
+        {
+            "name": "Country",
+            "subclasses": []
+        },
+        {
+            "name": "DomainConcept",
+            "subclasses": [
+                {
+                    "name": "Food",
+                    "subclasses": [
+                        {
+                            "name": "Pizza",
+                            "subclasses": [
+                                {
+                                    "name": "NamedPizza",
+                                    "subclasses": [
+                                        {
+                                            "name": "American",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "AmericanHot",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Cajun",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Capricciosa",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Caprina",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Fiorentina",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "FourSeasons",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "FruttiDiMare",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Giardiniera",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "LaReine",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Margherita",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Mushroom",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Napoletana",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Parmense",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "PolloAdAstra",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "PrinceCarlo",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "QuattroFormaggi",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Rosa",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Siciliana",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "SloppyGiuseppe",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Soho",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "Veneziana",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "UnclosedPizza",
+                                    "subclasses": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "PizzaBase",
+                            "subclasses": [
+                                {
+                                    "name": "DeepPanBase",
+                                    "subclasses": []
+                                },
+                                {
+                                    "name": "ThinAndCrispyBase",
+                                    "subclasses": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "PizzaTopping",
+                            "subclasses": [
+                                {
+                                    "name": "FishTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "AnchoviesTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "PrawnsTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "MixedSeafoodTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "VegetableTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "TomatoTopping",
+                                            "subclasses": [
+                                                {
+                                                    "name": "SundriedTomatoTopping",
+                                                    "subclasses": []
+                                                },
+                                                {
+                                                    "name": "SlicedTomatoTopping",
+                                                    "subclasses": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ArtichokeTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "AsparagusTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "OnionTopping",
+                                            "subclasses": [
+                                                {
+                                                    "name": "RedOnionTopping",
+                                                    "subclasses": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "CaperTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "OliveTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "CheeseyVegetableTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "GarlicTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "SpinachTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "MushroomTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "LeekTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "PetitPoisTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "PepperTopping",
+                                            "subclasses": [
+                                                {
+                                                    "name": "JalapenoPepperTopping",
+                                                    "subclasses": []
+                                                },
+                                                {
+                                                    "name": "PeperonataTopping",
+                                                    "subclasses": []
+                                                },
+                                                {
+                                                    "name": "GreenPepperTopping",
+                                                    "subclasses": [
+                                                        {
+                                                            "name": "HotGreenPepperTopping",
+                                                            "subclasses": []
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "SweetPepperTopping",
+                                                    "subclasses": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "RocketTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "HerbSpiceTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "CajunSpiceTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "RosemaryTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "CheeseTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "MozzarellaTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "GoatsCheeseTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "CheeseyVegetableTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "ParmesanTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "FourCheesesTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "GorgonzolaTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "MeatTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "PeperoniSausageTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "HamTopping",
+                                            "subclasses": [
+                                                {
+                                                    "name": "ParmaHamTopping",
+                                                    "subclasses": []
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "ChickenTopping",
+                                            "subclasses": []
+                                        },
+                                        {
+                                            "name": "HotSpicedBeefTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "FruitTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "SultanaTopping",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "NutTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "PineKernels",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "SauceTopping",
+                                    "subclasses": [
+                                        {
+                                            "name": "TobascoPepperSauce",
+                                            "subclasses": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "IceCream",
+                            "subclasses": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ValuePartition",
+            "subclasses": [
+                {
+                    "name": "Spiciness",
+                    "subclasses": [
+                        {
+                            "name": "Mild",
+                            "subclasses": []
+                        },
+                        {
+                            "name": "Hot",
+                            "subclasses": []
+                        },
+                        {
+                            "name": "Medium",
+                            "subclasses": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "InterestingPizza",
+            "subclasses": []
+        },
+        {
+            "name": "MeatyPizza",
+            "subclasses": []
+        },
+        {
+            "name": "NonVegetarianPizza",
+            "subclasses": []
+        },
+        {
+            "name": "VegetarianPizza",
+            "subclasses": []
+        },
+        {
+            "name": "RealItalianPizza",
+            "subclasses": []
+        },
+        {
+            "name": "SpicyPizza",
+            "subclasses": []
+        },
+        {
+            "name": "SpicyTopping",
+            "subclasses": []
+        },
+        {
+            "name": "SpicyPizzaEquivalent",
+            "subclasses": []
+        },
+        {
+            "name": "ThinAndCrispyPizza",
+            "subclasses": []
+        },
+        {
+            "name": "VegetarianPizzaEquivalent1",
+            "subclasses": []
+        },
+        {
+            "name": "VegetarianTopping",
+            "subclasses": []
+        },
+        {
+            "name": "VegetarianPizzaEquivalent2",
+            "subclasses": []
+        }
+    ]
+}
