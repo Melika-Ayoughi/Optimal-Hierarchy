@@ -47,6 +47,6 @@ You can find the dependencies of our project in:
 - `requirements_poincare.txt` (for the Poincare code)
 
 ## License
-This code is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+This code is licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
